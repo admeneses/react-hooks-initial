@@ -2,20 +2,20 @@
 
 Este é um projeto de demonstração educacional que ensina **React Hooks** na prática.
 
-## 🚀 Tecnologias Utilizadas
+## Stack
 
 * **React Native** - Framework para desenvolvimento mobile multiplataforma
 * **Expo** - Plataforma que simplifica o desenvolvimento React Native
 * **TypeScript** - Superset do JavaScript com tipagem estática
 * **React Navigation** - Biblioteca de navegação para React Native
 
-## 📱 Funcionalidades
+## Funcionalidades
 
-* ✅ **Telas com useState** - Exemplos práticos de gerenciamento de estado
-* ✅ **Tela com useEffect** - Demonstração de efeitos colaterais
-* ✅ **Tela com Hook Customizado** - useCounter com histórico
+* **Telas com useState** - Exemplos práticos de gerenciamento de estado
+* **Tela com useEffect** - Demonstração de efeitos colaterais
+* **Tela com Hook Customizado** - useCounter com histórico
 
-## 🛠️ Configuração do Projeto
+## Configuração do Projeto
 
 ### Pré-requisitos
 
@@ -40,7 +40,7 @@ Este é um projeto de demonstração educacional que ensina **React Hooks** na p
    npx expo start
    ```
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 react-hooks-initial/
@@ -59,28 +59,28 @@ react-hooks-initial/
 └── README.md                 # Documentação do projeto
 ```
 
-## 🎯 Conteúdo Educacional
+## Conteúdo Educacional
 
 ### 1. useState - Gerenciamento de Estado
 
-#### 🔢 Contador Simples
+#### Contador Simples
 - Conceito básico do useState
 - Atualização de estado
 - Re-renderização automática
 
-#### 📝 Formulário Interativo
+#### Formulário Interativo
 - Múltiplos estados independentes
 - Validação em tempo real
 - Estados derivados (computed values)
 
-#### 🔄 Toggle e Lista
+#### Toggle e Lista
 - useState com arrays
 - useState com objetos
 - Imutabilidade e spread operator
 
 ### 2. useEffect - Efeitos Colaterais
 
-#### ⏱️ Timer e API
+#### Timer e API
 - useEffect básico
 - useEffect com dependências
 - Cleanup de recursos
@@ -88,13 +88,13 @@ react-hooks-initial/
 
 ### 3. Hook Customizado
 
-#### 🛠️ useCounter
+#### useCounter
 - Criação de hooks customizados
 - Encapsulamento de lógica
 - Histórico de operações
 - Reutilização de código
 
-## 📚 Conceitos Ensinados
+## Conceitos Ensinados
 
 ### useState
 * Como declarar e usar estado local
@@ -117,13 +117,7 @@ react-hooks-initial/
 * Composição de hooks
 * Histórico de operações
 
-## 📱 Plataformas Suportadas
-
-* **iOS**
-* **Android**
-* **Web**
-
-## 🚀 Como Executar
+## Como Executar
 
 ### Desenvolvimento
 ```bash
@@ -139,15 +133,14 @@ npx expo build:android
 npx expo build:ios
 ```
 
-## 🎯 Objetivos de Aprendizado
+## Objetivos de Aprendizado
 
 * Compreender o conceito de hooks em React
 * Dominar o uso do useState para gerenciamento de estado
 * Aprender a usar useEffect para efeitos colaterais
 * Criar hooks customizados para lógica reutilizável
 * Entender imutabilidade e boas práticas
-* Desenvolver habilidades de debugging
 
-## 📄 Licença
+## Licença
 
-**Desenvolvido para fins educacionais** 🎓
+**Desenvolvido para fins educacionais**
